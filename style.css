@@ -1,0 +1,60 @@
+
+body{
+    background-color: rgb(5, 0, 54);
+}
+.container{
+    /* background-color: antiquewhite; */
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: rgb(162, 63, 255);
+    /* background-color: aqua; */
+    text-align: center;
+}
+
+label{
+    display: block;
+    width: 61%;
+    background-color: beige;
+}
+
+#para-ip{
+    display: block;
+    background-color: aliceblue;
+    width: 60%;
+    height: 8em;
+}
+
+#btn{
+    margin: 20px 0px;
+    display: block;
+    background-image: linear-gradient(-45deg, rgb(153, 0, 255), rgb(205, 130, 255));
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 1em;
+    box-shadow: 0 8px 20px 0 rgba(224, 40, 40, 0.1), 0 6px 20px 0 rgba(255, 255, 255, 0.4);
+    transition-duration: 0.3s;
+}
+#btn:hover{
+    box-shadow: 0 8px 20px 8px rgba(224, 40, 40, 0.01), 0 6px 20px 0 rgba(255,255,255, 0.9);
+    background-image: linear-gradient(-45deg, rgb(205, 130, 255), rgb(153, 0, 255));
+    
+}
+
+#result{
+    border: 2px solid;
+    background-color: white;
+    text-align: left;
+    height: 5em;
+    width: 60%;
+    font-size: 1.5em;
+}
