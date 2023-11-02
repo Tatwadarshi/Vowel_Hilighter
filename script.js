@@ -1,4 +1,4 @@
-import {vowelHighlighter} from '../vowel.js';
+import {vowelHighlighter} from './vowel.js';
 
 document.addEventListener('DOMContentLoaded', function () {
     const highlightButton = document.querySelector('button');
