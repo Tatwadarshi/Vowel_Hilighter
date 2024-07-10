@@ -72,4 +72,5 @@ label{
     width: 70%;
     font-size: 1.2em;
     border-radius: 4px;
+    word-wrap: break-word;
 }
