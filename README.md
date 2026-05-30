@@ -7,4 +7,4 @@ You are always welcome to use the function of the project if you need it as I ha
 
 ## Please Visit the Page!!!
 
-[![Website Preview](https://microlink.io)](https://tatwadarshi.github.io/Vowel_Hilighter/)
+[![Website Preview](https://github.com/Tatwadarshi/Vowel_Hilighter/blob/master/preview.png)](https://tatwadarshi.github.io/Vowel_Hilighter/)
